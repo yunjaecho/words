@@ -8,6 +8,7 @@ main = interact strip
 -}
 
 import Lib
+import GridData
 
 main :: IO ()
 main = outputGrid grid
